@@ -44,7 +44,7 @@ Here’s a video walkthrough of the implemented required features:
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I'd have to say the most challenging aspect here was getting everything broken apart from the first version and separated into components. I'm used to building with components and using the React router setup, so it made sense to lay it out like I have it, but it was just time consuming to break it down and make sure everything actually _routed_ properly.
 
 ## License
 
